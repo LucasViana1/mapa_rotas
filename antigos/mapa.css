@@ -1,0 +1,31 @@
+/*body{
+  margin: 0px !important;
+  border: none !important;
+}
+.container-fluid { padding: 0 !important; }*/
+/*#relatorio{
+  border-style: groove;
+  border-width: 2px;
+  border-color: black;
+}
+
+#cadastro_ponto{
+  border-style: groove;
+  border-width: 2px;
+  border-color: black;
+  height: 150px;
+}
+#menu{
+
+}*/
+#map{
+  /*border-style: groove;
+  border-width: 2px;
+  border-color: black;*/
+  height: 100%;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}

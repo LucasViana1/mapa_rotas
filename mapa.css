@@ -1,0 +1,57 @@
+#map {
+  height: 70%;
+  width: 69%;
+  float: left;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#relatorio{
+  float: left;
+  width: 29%;
+  border-style: groove;
+  border-width: 1px;
+  border-color: black;
+  margin: 5px;
+  padding-left: 6px;
+  font-family: monospace;
+  font-size: 13px;
+}
+#cadastro_ponto{
+  float: left;
+  width: 100%;
+  border-style: groove;
+  border-width: 1px;
+  border-color: black;
+  margin: 5px;
+  padding-left: 8px;
+  font-family: monospace;
+  font-size: 13px;
+}
+#calculo_dist{
+  float: left;
+  width: 100%;
+  border-style: groove;
+  border-width: 1px;
+  border-color: black;
+  margin: 5px;
+  padding-left: 8px;
+  font-family: monospace;
+  font-size: 13px;
+}
+.table-overflow {
+    max-height: 70%;
+    overflow-y:auto;
+}
+.cadastrados{
+  margin-left: 0.1px;
+  list-style-type: none;
+  padding-top: 4px; 
+}
+h5{
+  margin-top: 9px;
+
+}

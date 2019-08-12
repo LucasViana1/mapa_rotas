@@ -1,0 +1,33 @@
+#map {
+  height: 61%;
+  width: 69%;
+  float: left;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#relatorio{
+  float: left;
+  width: 29%;
+  border-style: groove;
+  border-width: 1px;
+  border-color: black;
+  margin: 5px;
+  padding-left: 6px;
+  font-family: monospace;
+  font-size: 13px;
+}
+#cadastro_ponto{
+  float: left;
+  width: 100%;
+  border-style: groove;
+  border-width: 1px;
+  border-color: black;
+  margin: 5px;
+  padding-left: 8px;
+  font-family: monospace;
+  font-size: 13px;
+}
